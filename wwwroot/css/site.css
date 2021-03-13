@@ -84,5 +84,6 @@ body {
     font-family: indie-flower, sans-serif;
     font-size: 25px;
     color: #ffffff;
-    /* text-shadow: 2px 2px 5px red;*/ 
+    border-color: #1861ac;
+    /* text-shadow: 2px 2px 5px red;*/
 }
